@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-[Sparse Communication via Mixed Distributions](https://arxiv.org/abs/2108.02658)  
+[Sparse Communication via Mixed Distributions](https://openreview.net/forum?id=WAid50QschI)  
 **António Farinhas**, Wilker Aziz, Vlad Niculae, and André F. T. Martins.
-*Preprint*, 2021 [[code](https://github.com/probabll/mixed-rv-vae)]
+In *Proceedings of ICLR*, 2022. Oral presentation [[code](https://github.com/deep-spin/sparse-communication)]
 
 [Sparse Continuous Distributions and Fenchel-Young Losses](https://arxiv.org/abs/2108.01988)  
 André F. T. Martins, Marcos Treviso, **António Farinhas**, Pedro M. Q. Aguiar, Mário A. T. Figueiredo, Mathieu Blondel, and Vlad Niculae.
@@ -21,4 +21,4 @@ In *Proceedings of ICCV Workshops*, 2021 [[code](https://github.com/deep-spin/vq
 
 [Sparse and Continuous Attention Mechanisms](https://arxiv.org/abs/2006.07214)  
 André F. T. Martins, **António Farinhas**, Marcos Treviso, Vlad Niculae, Pedro M. Q. Aguiar, and Mário A. T. Figueiredo.
-In *Proceedings of NeurIPS*, 2020 [[code](https://github.com/deep-spin/mcan-vqa-continuous-attention)]
+In *Proceedings of NeurIPS*, 2020. Spotlight presentation [[code](https://github.com/deep-spin/mcan-vqa-continuous-attention)]
