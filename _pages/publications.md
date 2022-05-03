@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
+<font size="2"> * = equal contribution</font> 
+
+[Quality-Aware Decoding for Neural Machine Translation](https://arxiv.org/abs/2205.00978)  
+Patrick Fernandes\*, **António Farinhas\***, Ricardo Rei, José G. C. Souza, Perez Ogayo, Graham Neubig, André F. T. Martins.
+In *Proceedings of NAACL*, 2022. [[code](https://github.com/deep-spin/qaware-decode)]
 
 [Sparse Communication via Mixed Distributions](https://openreview.net/forum?id=WAid50QschI)  
 **António Farinhas**, Wilker Aziz, Vlad Niculae, and André F. T. Martins.
