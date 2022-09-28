@@ -18,7 +18,7 @@ In *Proceedings of ICLR*, 2022. Oral presentation [[code](https://github.com/dee
 
 [Sparse Continuous Distributions and Fenchel-Young Losses](https://arxiv.org/abs/2108.01988)  
 André F. T. Martins, Marcos Treviso, **António Farinhas**, Pedro M. Q. Aguiar, Mário A. T. Figueiredo, Mathieu Blondel, and Vlad Niculae.
-*Preprint*, 2021 [[code](https://github.com/deep-spin/sparse_continuous_distributions)]
+In *JMLR*, 2022 (to appear). [[code](https://github.com/deep-spin/sparse_continuous_distributions)]
 
 [Multimodal Continuous Visual Attention Mechanisms](https://arxiv.org/abs/2104.03046)  
 **António Farinhas**, André F. T. Martins, and Pedro M. Q. Aguiar.
