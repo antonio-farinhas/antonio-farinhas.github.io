@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 <font size="2"> * = equal contribution</font> 
 
+[Non-Exchangeable Conformal Risk Control](https://arxiv.org/abs/2310.01262)  
+**António Farinhas**, Chrysoula Zerva, Dennis Ulmer, André F. T. Martins.
+*Preprint*, 2023. [[code](https://github.com/deep-spin/non-exchangeable-crc)]
+
 [Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation](https://arxiv.org/abs/2305.00955)
 Patrick Fernandes, Aman Madaan, Emmy Liu, **António Farinhas**, Pedro H. Martins, Amanda Bertsch, José G. C. Souza, Shuyan Zhou, Tongshuang Wu, Graham Neubig, André F. T. Martins.
 *Preprint*, 2023.
