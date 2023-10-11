@@ -14,7 +14,7 @@ author_profile: true
 
 [Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation](https://arxiv.org/abs/2305.00955)
 Patrick Fernandes, Aman Madaan, Emmy Liu, **António Farinhas**, Pedro H. Martins, Amanda Bertsch, José G. C. Souza, Shuyan Zhou, Tongshuang Wu, Graham Neubig, André F. T. Martins.
-*Preprint*, 2023.
+In *TACL*, 2023.
 
 [Quality-Aware Decoding for Neural Machine Translation](https://aclanthology.org/2022.naacl-main.100/)  
 Patrick Fernandes\*, **António Farinhas\***, Ricardo Rei, José G. C. Souza, Perez Ogayo, Graham Neubig, André F. T. Martins.
