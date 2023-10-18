@@ -12,6 +12,10 @@ author_profile: true
 **António Farinhas**, Chrysoula Zerva, Dennis Ulmer, André F. T. Martins.
 *Preprint*, 2023. [[code](https://github.com/deep-spin/non-exchangeable-crc)]
 
+[An Empirical Study of Translation Hypothesis Ensembling with Large Language Models](https://arxiv.org/abs/2310.11430)  
+**António Farinhas**, José G. C. Souza, André F. T. Martins.
+In *Proceedings of EMNLP*, 2023. [[code](https://github.com/deep-spin/translation-hypothesis-ensembling)]
+
 [Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation](https://arxiv.org/abs/2305.00955)
 Patrick Fernandes, Aman Madaan, Emmy Liu, **António Farinhas**, Pedro H. Martins, Amanda Bertsch, José G. C. Souza, Shuyan Zhou, Tongshuang Wu, Graham Neubig, André F. T. Martins.
 In *TACL*, 2023.
