@@ -10,7 +10,7 @@ author_profile: true
 
 [Non-Exchangeable Conformal Risk Control](https://arxiv.org/abs/2310.01262)  
 **António Farinhas**, Chrysoula Zerva, Dennis Ulmer, André F. T. Martins.
-*Preprint*, 2023. [[code](https://github.com/deep-spin/non-exchangeable-crc)]
+In *Proceedings of ICLR*, 2024 (to appear). [[code](https://github.com/deep-spin/non-exchangeable-crc)]
 
 [An Empirical Study of Translation Hypothesis Ensembling with Large Language Models](https://arxiv.org/abs/2310.11430)  
 **António Farinhas**, José G. C. Souza, André F. T. Martins.
