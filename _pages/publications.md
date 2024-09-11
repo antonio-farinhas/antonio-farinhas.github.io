@@ -6,11 +6,27 @@ author_profile: true
 ---
 
 {% include base_path %}
-<font size="2"> * = equal contribution</font> 
+<font size="2"> * = equal contribution</font>
+
+[Can Automatic Metrics Assess High-Quality Translations?](https://arxiv.org/abs/2405.18348)
+Sweta Agrawal\*, **António Farinhas\***, Ricardo Rei, André F.T. Martins.
+Preprint, 2024.
+
+[QUEST: Quality-Aware Metropolis-Hastings Sampling for Machine Translation](https://arxiv.org/abs/2406.00049)
+Gonçalo R. A. Faria, Sweta Agrawal, **António Farinhas**, Ricardo Rei, José G. C. de Souza, André F. T. Martins.
+Preprint, 2024.
+
+[Conformal Prediction for Natural Language Processing: A Survey](https://arxiv.org/abs/2405.01976)
+Margarida M. Campos, **António Farinhas**, Chrysoula Zerva, Mário A.T. Figueiredo, André F.T. Martins.
+In *TACL*, 2024.
+
+[Aligning Neural Machine Translation Models: Human Feedback in Training and Inference](https://arxiv.org/abs/2311.09132)
+Miguel Moura Ramos, Patrick Fernandes, **António Farinhas**, André F. T. Martins.
+In *Proceedings of EAMT*, 2024.
 
 [Non-Exchangeable Conformal Risk Control](https://arxiv.org/abs/2310.01262)  
 **António Farinhas**, Chrysoula Zerva, Dennis Ulmer, André F. T. Martins.
-In *Proceedings of ICLR*, 2024 (to appear). [[code](https://github.com/deep-spin/non-exchangeable-crc)]
+In *Proceedings of ICLR*, 2024. [[code](https://github.com/deep-spin/non-exchangeable-crc)]
 
 [An Empirical Study of Translation Hypothesis Ensembling with Large Language Models](https://arxiv.org/abs/2310.11430)  
 **António Farinhas**, José G. C. Souza, André F. T. Martins.
