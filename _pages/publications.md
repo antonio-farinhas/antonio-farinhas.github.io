@@ -8,19 +8,19 @@ author_profile: true
 {% include base_path %}
 <font size="2"> * = equal contribution</font>
 
-[Can Automatic Metrics Assess High-Quality Translations?](https://arxiv.org/abs/2405.18348)
+[Can Automatic Metrics Assess High-Quality Translations?](https://arxiv.org/abs/2405.18348)  
 Sweta Agrawal\*, **António Farinhas\***, Ricardo Rei, André F.T. Martins.
 Preprint, 2024.
 
-[QUEST: Quality-Aware Metropolis-Hastings Sampling for Machine Translation](https://arxiv.org/abs/2406.00049)
+[QUEST: Quality-Aware Metropolis-Hastings Sampling for Machine Translation](https://arxiv.org/abs/2406.00049)  
 Gonçalo R. A. Faria, Sweta Agrawal, **António Farinhas**, Ricardo Rei, José G. C. de Souza, André F. T. Martins.
 Preprint, 2024.
 
-[Conformal Prediction for Natural Language Processing: A Survey](https://arxiv.org/abs/2405.01976)
+[Conformal Prediction for Natural Language Processing: A Survey](https://arxiv.org/abs/2405.01976)  
 Margarida M. Campos, **António Farinhas**, Chrysoula Zerva, Mário A.T. Figueiredo, André F.T. Martins.
 In *TACL*, 2024.
 
-[Aligning Neural Machine Translation Models: Human Feedback in Training and Inference](https://arxiv.org/abs/2311.09132)
+[Aligning Neural Machine Translation Models: Human Feedback in Training and Inference](https://arxiv.org/abs/2311.09132)  
 Miguel Moura Ramos, Patrick Fernandes, **António Farinhas**, André F. T. Martins.
 In *Proceedings of EAMT*, 2024.
 
