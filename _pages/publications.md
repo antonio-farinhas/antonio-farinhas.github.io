@@ -10,7 +10,7 @@ author_profile: true
 
 [Reranking Laws for Language Generation: A Communication-Theoretic Perspective](https://arxiv.org/abs/2409.07131)  
 **António Farinhas**, Haau-Sing Li, André F.T. Martins.
-In *Proceedings of NeurIPS*, 2024.
+In *Proceedings of NeurIPS*, 2024. Spotlight presentation.
 
 [QUEST: Quality-Aware Metropolis-Hastings Sampling for Machine Translation](https://arxiv.org/abs/2406.00049)  
 Gonçalo R. A. Faria, Sweta Agrawal, **António Farinhas**, Ricardo Rei, José G. C. de Souza, André F. T. Martins.
