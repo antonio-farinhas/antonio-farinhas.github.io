@@ -20,7 +20,7 @@ In *Proceedings of NeurIPS*, 2024. [[code](https://github.com/deep-spin/quest-de
 Sweta Agrawal\*, **António Farinhas\***, Ricardo Rei, André F.T. Martins.
 In *Proceedings of EMNLP*, 2024.
 
-[Modeling User Preferences with Automatic Metrics: Creating a High-Quality Preference Dataset for Machine Translation](https://arxiv.org/abs/2410.07779)
+[Modeling User Preferences with Automatic Metrics: Creating a High-Quality Preference Dataset for Machine Translation](https://arxiv.org/abs/2410.07779)  
 Sweta Agrawal, José G. C. Souza, Ricardo Rei, **António Farinhas**, Gonçalo Faria, Patrick Fernandes, Nuno M. Guerreiro, André F.T. Martins
 In *Proceedings of EMNLP*, 2024. [[code](https://github.com/deep-spin/mt-pref-alignment)]
 
