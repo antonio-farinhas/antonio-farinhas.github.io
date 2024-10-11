@@ -13,12 +13,16 @@ author_profile: true
 In *Proceedings of NeurIPS*, 2024. Spotlight presentation.
 
 [QUEST: Quality-Aware Metropolis-Hastings Sampling for Machine Translation](https://arxiv.org/abs/2406.00049)  
-Gonçalo R. A. Faria, Sweta Agrawal, **António Farinhas**, Ricardo Rei, José G. C. de Souza, André F. T. Martins.
-In *Proceedings of NeurIPS*, 2024.
+Gonçalo R. A. Faria, Sweta Agrawal, **António Farinhas**, Ricardo Rei, José G. C. Souza, André F. T. Martins.
+In *Proceedings of NeurIPS*, 2024. [[code](https://github.com/deep-spin/quest-decoding)]
 
 [Can Automatic Metrics Assess High-Quality Translations?](https://arxiv.org/abs/2405.18348)  
 Sweta Agrawal\*, **António Farinhas\***, Ricardo Rei, André F.T. Martins.
 In *Proceedings of EMNLP*, 2024.
+
+[Modeling User Preferences with Automatic Metrics: Creating a High-Quality Preference Dataset for Machine Translation](https://arxiv.org/abs/2410.07779)
+Sweta Agrawal, José G. C. Souza, Ricardo Rei, **António Farinhas**, Gonçalo Faria, Patrick Fernandes, Nuno M. Guerreiro, André F.T. Martins
+In *Proceedings of EMNLP*, 2024. [[code](https://github.com/deep-spin/mt-pref-alignment)]
 
 [Conformal Prediction for Natural Language Processing: A Survey](https://arxiv.org/abs/2405.01976)  
 Margarida M. Campos, **António Farinhas**, Chrysoula Zerva, Mário A.T. Figueiredo, André F.T. Martins.
@@ -30,11 +34,11 @@ In *Proceedings of EAMT*, 2024.
 
 [Non-Exchangeable Conformal Risk Control](https://arxiv.org/abs/2310.01262)  
 **António Farinhas**, Chrysoula Zerva, Dennis Ulmer, André F. T. Martins.
-In *Proceedings of ICLR*, 2024. [[code](https://github.com/deep-spin/non-exchangeable-crc)]
+In *Proceedings of ICLR*, 2024. [[code](https://github.com/deep-spin/non-exchangeable-crc)][[poster](https://antonio-farinhas.github.io/documents/2024_ICLR_Poster.pdf)]
 
 [An Empirical Study of Translation Hypothesis Ensembling with Large Language Models](https://arxiv.org/abs/2310.11430)  
 **António Farinhas**, José G. C. Souza, André F. T. Martins.
-In *Proceedings of EMNLP*, 2023. [[code](https://github.com/deep-spin/translation-hypothesis-ensembling)]
+In *Proceedings of EMNLP*, 2023. [[code](https://github.com/deep-spin/translation-hypothesis-ensembling)][[poster](https://antonio-farinhas.github.io/documents/2023_EMNLP_Poster.pdf)]
 
 [Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation](https://arxiv.org/abs/2305.00955)
 Patrick Fernandes, Aman Madaan, Emmy Liu, **António Farinhas**, Pedro H. Martins, Amanda Bertsch, José G. C. Souza, Shuyan Zhou, Tongshuang Wu, Graham Neubig, André F. T. Martins.
